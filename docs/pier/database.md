@@ -49,10 +49,11 @@ $db->statement("CREATE DATABASE {$databaseName}");
 ### Request Example
 Here's an example of an API call to create a database:
 
-```
+```endopoint
 POST /create-database
 Content-Type: application/json
-
+```
+```php
 {
   "db_host": "localhost",
   "db_port": 5432,
