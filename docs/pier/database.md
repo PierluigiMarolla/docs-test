@@ -2,12 +2,6 @@
 
 This is documentation generated with **Docsify**!
 
-# PAGES
-
-* [Member 2](MEMBRO2.md)
-* [Member 3](MEMBRO3.md)
-* [Member 4](MEMBRO4.md)
-
 
 ## Documentation Sections
 
